@@ -1,1 +1,1 @@
-# django-apps
+The repository demonstrates useful examples of working with Django framework
